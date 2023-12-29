@@ -71,6 +71,42 @@
       "icon": "https://play-lh.googleusercontent.com/_E2ZqgZWdQJBBGqfoVxHlilcQev7T8UsT6O-9YRF035J8MLcfaz0MAKRaearuRoObow=w240-h480",
       "download": "+50 Million"
     },
+      {
+      "name": "ناصر القطامي",
+      "packageName": "net.nasser.alqatami.quran",
+      "icon": "https://play-lh.googleusercontent.com/5oPGWihcpzynCYrMAgr7TWzjCGInPYyFxsJfqOVxdro3rbeE1MTrOxElp29t-YISTw=w240-h480",
+      "download": "+50 Million"
+    },
+      {
+      "name": "عبدالرحمن السديس",
+      "packageName": "net.abderrahman.alsoudais.quran",
+      "icon": "https://play-lh.googleusercontent.com/CJmxiTmoKb8Y9y_8C6ofVxprNcacCHzJSeiCVyqY7PAZ1X8_V9-EEE_2_brb6jdRL8v9=w240-h480",
+      "download": "+50 Million"
+    },
+      {
+      "name": "سعود الشريم",
+      "packageName": "net.saoud.shuraim.quran",
+      "icon": "https://play-lh.googleusercontent.com/vXaI34wsEsT3g6VDzq3v9jXtp8qfE3qjo-0IjCe7xHCRBIjLC39LzzMOAWro-kC4pY0=w240-h480",
+      "download": "+50 Million"
+    },
+      {
+      "name": "أبو بكر الشاطري",
+      "packageName": "net.AbuBakr.AlShatri.quran",
+      "icon": "https://play-lh.googleusercontent.com/5amyCoc9yx5swLSdhSGL0R72aFM16Cf4UaFZQ3EKEfZ1ANNHLaDpZtYa0_R8pltVLg=w240-h480",
+      "download": "+50 Million"
+    },
+      {
+      "name": "علي الحذيفي",
+      "packageName": "net.Ali.Alhuthaify.quran",
+      "icon": "https://play-lh.googleusercontent.com/kqRnU6pCraA5idMxeXmeXqm9f7n4ZQ3-oHbrhlOfx5wMTcczjdI2MsowwFuKsjXG_ac=w240-h480",
+      "download": "+50 Million"
+    },
+      {
+      "name": "فارس عباد",
+      "packageName": "net.fares.abbad.quran",
+      "icon": "https://play-lh.googleusercontent.com/lXMi2LAmCjNhL7G527w5YkUPP5teiP8Zfz_aSn3LKVOhBeU6ZjoOGy9uQJih3u4F0TI=w240-h480",
+      "download": "+50 Million"
+    },
     {
       "name": "أحمد العجمي",
       "packageName": "net.ahmed.alajmi.quran",
