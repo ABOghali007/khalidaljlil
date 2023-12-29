@@ -46,19 +46,6 @@
 
   },
   
-  "playList": [
-    {
-      "title": "kok",
-      "track": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/1.mp3",
-      "locked": true
-    },
-     {
-      "title": "kok 2",
-      "track": "https://zonekapp.com/AndroidStudio/Media/3.mp3",
-      "locked": true
-    }
-  ],
-  
  "AppsPromote": [
     {
       "name": "سعد الغامدي",
